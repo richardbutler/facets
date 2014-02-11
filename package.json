@@ -1,12 +1,12 @@
 {
-  "name": "facet",
+  "name": "facets",
   "description": "Chainable sorting and filtering for collections.",
   "version": "0.1.0",
-  "main": "./facet.js",
+  "main": "./facets.js",
   "author": "Richard Butler <rich@smartcasual.io>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/richardbutler/facet.git"
+    "url": "https://github.com/richardbutler/facets.git"
   },
   "licenses": [
     {

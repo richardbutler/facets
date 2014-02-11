@@ -4,8 +4,8 @@ var gulp    = require('gulp'),
     mocha   = require('gulp-mocha');
 
 gulp.task('scripts', function() {
-    return gulp.src('facet.js')
-        .pipe(rename('facet.min.js'))
+    return gulp.src('facets.js')
+        .pipe(rename('facets.min.js'))
         .pipe(uglify({
             outSourceMap: true,
             preserveComments: 'some'

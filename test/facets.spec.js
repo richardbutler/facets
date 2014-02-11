@@ -2,10 +2,10 @@
 
 var expect  = require('chai-stack').expect,
     trilby  = require('trilby'),
-    facet   = require('../'),
+    facets  = require('../'),
     data    = require('./fixtures/nobelprize.json');
 
-describe('facet', function() {
+describe('facets', function() {
     var store, fields;
     
     //fields = ['Year', 'Country', 'Sex', 'Joint?', 'Institution or individual?'];
@@ -18,7 +18,7 @@ describe('facet', function() {
     ];
     
     beforeEach(function() {
-        store = facet({
+        store = facets({
             fields: fields
         }).data(data);
     });
@@ -44,7 +44,7 @@ describe('facet', function() {
             expect(store.sortsOn('Country').exec().data()[0]['Winner']).to.equal('Carlos Saavedra Lamas');
         });
         it('should do a complex sort', function() {
-            var store = facet().data([
+            var store = facets().data([
                 { Year: 2012, Letter: 'A', Value: 1, Winner: 'AB' },
                 { Year: 2010, Letter: 'A', Value: 2, Winner: 'BC' },
                 { Year: 2010, Letter: 'C', Value: 4, Winner: 'CD' },
@@ -63,7 +63,7 @@ describe('facet', function() {
             // Filter by Switzerland
             store
                 .field('Country')
-                .filters(facet.filter.equals('Switzerland'));
+                .filters(facets.filter.equals('Switzerland'));
             
             var filtered = store.exec();
             expect(filtered.data().length).to.equal(12);
@@ -72,7 +72,7 @@ describe('facet', function() {
             // Filter the original store by a second field - joint winners
             store
                 .field('Joint?')
-                .filters(facet.filter.equals(false));
+                .filters(facets.filter.equals(false));
 
             var filtered2 = store.exec();
             expect(filtered2.data().length).to.equal(8);
@@ -82,7 +82,7 @@ describe('facet', function() {
             // expect the result to be the same
             filtered
                 .field('Joint?')
-                .filters(facet.filter.equals(false));
+                .filters(facets.filter.equals(false));
             
             var filtered3 = filtered.exec();
             expect(filtered3.data().length).to.equal(8);
@@ -92,7 +92,7 @@ describe('facet', function() {
             // Filter by range 1980-1984
             store
                 .field('Year')
-                .filters(facet.filter.range(1980, 1984));
+                .filters(facets.filter.range(1980, 1984));
 
             var filtered = store.exec();
             expect(filtered.data().length).to.equal(6);
@@ -102,11 +102,11 @@ describe('facet', function() {
         it('should handle multiple filters', function() {
             store
                 .field('Year')
-                .filters(facet.filter.range(1980, 1984));
+                .filters(facets.filter.range(1980, 1984));
 
             store
                 .field('Country')
-                .filters(facet.filter.equals('Switzerland'));
+                .filters(facets.filter.equals('Switzerland'));
 
             var filtered = store.exec();
             expect(filtered.data().length).to.equal(1);
@@ -128,7 +128,7 @@ describe('facet', function() {
     describe('matchers', function() {
         describe('range', function() {
             it('should work', function() {
-                var filter = facet.filter.range(5, 10);
+                var filter = facets.filter.range(5, 10);
                 expect(filter(7));
                 expect(filter(10));
                 expect(!filter(1));
@@ -136,45 +136,45 @@ describe('facet', function() {
         });
         describe('equals', function() {
             it('should work', function() {
-                var filter = facet.filter.equals('foo');
+                var filter = facets.filter.equals('foo');
                 expect(filter('foo'));
                 expect(!filter('bar'));
             });
         });
         describe('greaterThan', function() {
             it('should work', function() {
-                var filter = facet.filter.greaterThan(5);
+                var filter = facets.filter.greaterThan(5);
                 expect(filter(10));
                 expect(!filter(1));
             });
         });
         describe('lessThan', function() {
             it('should work', function() {
-                var filter = facet.filter.lessThan(5);
+                var filter = facets.filter.lessThan(5);
                 expect(filter(1));
                 expect(!filter(5));
             });
         });
         describe('contains', function() {
             it('should work when case sensitive', function() {
-                var filter = facet.filter.contains('Foo', true);
+                var filter = facets.filter.contains('Foo', true);
                 expect(filter('Foobar'));
                 expect(!filter('foobar'));
             });
             it('should work when case insensitive', function() {
-                var filter = facet.filter.contains('Foo');
+                var filter = facets.filter.contains('Foo');
                 expect(filter('barFoo'));
                 expect(filter('barfoo'));
                 expect(!filter('barbaz'));
             });
             it('should work when an array', function() {
-                var filter = facet.filter.contains('FoO', true);
+                var filter = facets.filter.contains('FoO', true);
                 expect(filter(['FoO', 'bar']));
                 expect(!filter(['FoOo', 'bar']));
                 expect(!filter(['foobar', 'barbaz']));
             });
             it('should work when an array and case insensitive', function() {
-                var filter = facet.filter.contains('FoO');
+                var filter = facets.filter.contains('FoO');
                 expect(filter(['Foo', 'Bar']));
                 expect(filter(['Foooo', 'Bar']));
                 expect(!filter(['Foobar', 'Barbaz']));
@@ -182,7 +182,7 @@ describe('facet', function() {
         });
         describe('maybe', function() {
             it('should work', function() {
-                var filter = facet.filter.maybe();
+                var filter = facets.filter.maybe();
                 expect(filter(true));
                 expect(filter(1));
                 expect(!filter(false));

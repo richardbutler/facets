@@ -1,8 +1,8 @@
 /**
- * facet.js
+ * facets.js
  *
  * @author      Richard Butler <rich@smartcasual.io>
- * @license     MIT <https://github.com/richardbutler/facet/blob/master/LICENSE>
+ * @license     MIT <https://github.com/richardbutler/facets/blob/master/LICENSE>
  * @version     0.1.0
  */
 
@@ -18,23 +18,23 @@
         module.exports = factory(require('trilby'));
     } else {
         // Browser globals (root is window)
-        root.facet = factory(root.trilby);
+        root.facets = factory(root.trilby);
     }
 }(this, function(trilby) {
 
     /**
-     * Creates a facet instance, takes an optional config object:
+     * Creates a facets instance, takes an optional config object:
      * 
-     *      var store = facet({
+     *      var store = facets({
      *          fields: ['title', 'label'] // Only offer these fields as filterable/sortable
      *      })
      *      .data(data);
      *
-     * @class   facet
+     * @class   facets
      * @param   {Object} [config]   The config object
-     * @return  {Object}            The facet instance
+     * @return  {Object}            The facets instance
      */
-    function facet(config) {
+    function facets(config) {
         config = config || {};
 
         var f = {},
@@ -50,7 +50,7 @@
          * Sets or retrieves the data for this store.
          *
          * @param   {Array}         [d]     The data collection
-         * @return  {Array|Object}          The data collection, or the facet instance
+         * @return  {Array|Object}          The data collection, or the facets instance
          */
         f.data = function(d) {
             var options;
@@ -74,7 +74,7 @@
             fields = normalisedFields.reduce(function(fields, fieldConfig) {
                 var fieldName = fieldConfig.name;
                 
-                fieldConfig.facet = getFacet;
+                fieldConfig.facets = getFacet;
                 
                 fields[fieldName] = field(fieldConfig, options[fieldName]);
                 
@@ -88,7 +88,7 @@
          * Adds field names to the sorting stack.
          *
          * @param   {String|Array}  field   A field name, or an array of field names
-         * @return  {Object}                The facet instance
+         * @return  {Object}                The facets instance
          */
         f.sortsOn = function(field) {
             sortFields.add(field);
@@ -99,7 +99,7 @@
          * Retrives a field object by name.
          *
          * @param   {String}    fieldName   A field name
-         * @return  {Object}                The facet instance
+         * @return  {Object}                The facets instance
          */
         f.field = function(fieldName) {
             return fields[fieldName];
@@ -115,10 +115,10 @@
         };
         
         /**
-         * Generates a new facet object, with the supplied sort and filter
+         * Generates a new facets object, with the supplied sort and filter
          * options applied, as a hard-filter/sort.
          *
-         * @return {Object}     The new facet instance
+         * @return {Object}     The new facets instance
          */
         f.exec = function() {
             var filtered = data.slice();
@@ -131,7 +131,7 @@
                 sortFns = sortFields
                     .map(f.field)
                     .invoke('sort')
-                    .filter(facet.filter.maybe());
+                    .filter(facets.filter.maybe());
                 
                 function sortFn(fn) {
                     return function(a, b) {
@@ -154,7 +154,7 @@
                 });
             });
             
-            return facet(config).data(filtered);
+            return facets(config).data(filtered);
         };
         
         return f;
@@ -164,7 +164,7 @@
      * A simple hash providing various filter function helpers, to be supplied
      * to `option().filter(fn)`.
      */
-    facet.filter = {
+    facets.filter = {
         
         /**
          * Generates a filter function for the given range.
@@ -345,7 +345,7 @@
         }
         
         function createOption(value) {
-            return option(field, value, config.facet().data());
+            return option(field, value, config.facets().data());
         }
         
         // Wrap options
@@ -415,7 +415,7 @@
         
         option.results = function() {
             if (!results) {
-                results = data.filter(facet.filter.equals(value), field.name);
+                results = data.filter(facets.filter.equals(value), field.name);
             }
 
             return results;
@@ -457,5 +457,5 @@
         return 0;
     }
 
-    return facet;
+    return facets;
 }));
