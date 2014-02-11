@@ -1,0 +1,1439 @@
+[
+    {
+        "Year": "1901",
+        "Winner": "Jean Henri Dunant",
+        "Country": "Switzerland",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "CH",
+        "Sex": "M",
+        "Notes": "Founder of the International Committee of the Red Cross, Geneva; Initiator of the Geneva Convention and founder and President of the first French peace society (since 1889 it has been called the Société Francaise pour l'arbitrage entre nations)."
+    },
+    {
+        "Year": "1901",
+        "Winner": "Frédéric Passy",
+        "Country": "France",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "FR",
+        "Sex": "M",
+        "Notes": "Founder of the International Committee of the Red Cross, Geneva; Initiator of the Geneva Convention and founder and President of the first French peace society (since 1889 it has been called the Société Francaise pour l'arbitrage entre nations)."
+    },
+    {
+        "Year": "1902",
+        "Winner": "Élie Ducommun",
+        "Country": "Switzerland",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "CH",
+        "Sex": "M",
+        "Notes": "Honorary Secretary of the Permanent International Peace Bureau, Berne"
+    },
+    {
+        "Year": "1902",
+        "Winner": "Charles Albert Gobat",
+        "Country": "Switzerland",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "CH",
+        "Sex": "M",
+        "Notes": "Secretary General of the Inter-Parliamentary Union, Berne"
+    },
+    {
+        "Year": "1903",
+        "Winner": "Sir William Randal Cremer",
+        "Country": "UK",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "GB",
+        "Sex": "M",
+        "Notes": "Member of the British Parliament. Secretary of the International Arbitration League ."
+    },
+    {
+        "Year": "1904",
+        "Winner": "Institute Of International Law",
+        "Country": "Belgium",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Inst",
+        "ISO country code (WHERE APP)": "BE",
+        "Notes": "A scientific society."
+    },
+    {
+        "Year": "1905",
+        "Winner": "Baroness Bertha Sophie Felicita Von Suttner",
+        "Country": "Austria-Hungary (now Czech Republic)",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "CZ",
+        "Sex": "F",
+        "Notes": "Writer. Hon. President of the Permanent International Peace Bureau, Berne. Author of Die Waffen Nieder (Lay Down Your Arms)."
+    },
+    {
+        "Year": "1906",
+        "Winner": "Theodore Roosevelt",
+        "Country": "USA",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "US",
+        "Sex": "M",
+        "Notes": "President of the United States of America. Drew up the 1905 peace treaty between Russia and Japan."
+    },
+    {
+        "Year": "1907",
+        "Winner": "Ernesto Teodoro Moneta",
+        "Country": "Italy",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "IT",
+        "Sex": "M",
+        "Notes": "President of the Lombard League of Peace"
+    },
+    {
+        "Year": "1907",
+        "Winner": "Louis Renault",
+        "Country": "France",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "FR",
+        "Sex": "M",
+        "Notes": "Professor International Law, Sorbonne University, Paris"
+    },
+    {
+        "Year": "1908",
+        "Winner": "Klas Pontus Arnoldson",
+        "Country": "Sweden",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "SE",
+        "Sex": "M",
+        "Notes": "Former Member of the Swedish Parliament. Founder of the Swedish Peace and Arbitration League"
+    },
+    {
+        "Year": "1908",
+        "Winner": "Fredrik Bajer",
+        "Country": "Denmark",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "DK",
+        "Sex": "M",
+        "Notes": "Honorary President of the Permanent International Peace Bureau, Berne"
+    },
+    {
+        "Year": "1909",
+        "Winner": "Auguste Marie François Beernaert",
+        "Country": "Belgium",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "BE",
+        "Sex": "M",
+        "Notes": "Arbitrage (International Court of Arbitration) at the Hague"
+    },
+    {
+        "Year": "1909",
+        "Winner": "Paul Henri Benjamin Balluet d'Estournelles de Constant, Baron de Constant de Rebecque",
+        "Country": "France",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "FR",
+        "Sex": "M",
+        "Notes": "Member of the French Parliament. Founder and President of the French parliamentary group for international arbitration, founder of the Committee for the Defense of National Interests and International Conciliation"
+    },
+    {
+        "Year": "1910",
+        "Winner": "Permanent International Peace Bureau",
+        "Country": "Switzerland",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Inst",
+        "ISO country code (WHERE APP)": "CH"
+    },
+    {
+        "Year": "1911",
+        "Winner": "Tobias Michael Carel Asser",
+        "Country": "Netherlands",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "NL",
+        "Sex": "M",
+        "Notes": "Initiator of the International Conferences of Private Law at the Hague"
+    },
+    {
+        "Year": "1911",
+        "Winner": "Alfred Hermann Fried",
+        "Country": "Austria",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "AT",
+        "Sex": "M",
+        "Notes": "Founder of the peace journal Die Waffen Nieder (later renamed Die Friedenswarte)"
+    },
+    {
+        "Year": "1912",
+        "Winner": "Elihu Root",
+        "Country": "USA",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "US",
+        "Sex": "M",
+        "Notes": "Former Secretary of State. Initiator of several arbitration agreements."
+    },
+    {
+        "Year": "1913",
+        "Winner": "Henri La Fontaine",
+        "Country": "Belgium",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "BE",
+        "Sex": "M",
+        "Notes": "Member of the Belgian Parliament. President of the Permanent International Peace Bureau, Berne."
+    },
+    {
+        "Year": "1914",
+        "Winner": "No Award",
+        "ISO country code (WHERE APP)": "--"
+    },
+    {
+        "Year": "1915",
+        "Winner": "No Award",
+        "ISO country code (WHERE APP)": "--"
+    },
+    {
+        "Year": "1916",
+        "Winner": "No Award",
+        "ISO country code (WHERE APP)": "--"
+    },
+    {
+        "Year": "1917",
+        "Winner": "International Committee Of The Red Cross",
+        "Country": "Switzerland",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Inst",
+        "ISO country code (WHERE APP)": "CH"
+    },
+    {
+        "Year": "1918",
+        "Winner": "No Award",
+        "ISO country code (WHERE APP)": "--"
+    },
+    {
+        "Year": "1919",
+        "Winner": "Thomas Woodrow Wilson",
+        "Country": "USA",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "US",
+        "Sex": "M",
+        "Notes": "Founder of the League of Nations"
+    },
+    {
+        "Year": "1920",
+        "Winner": "Leon Victor Auguste Bourgeois",
+        "Country": "France",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Inst",
+        "ISO country code (WHERE APP)": "FR",
+        "Notes": "Former Secretary of State. President of the Parliament. President of the Council of the League of Nations"
+    },
+    {
+        "Year": "1921",
+        "Winner": "Karl Hjalmar Branting",
+        "Country": "Sweden",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "SE",
+        "Sex": "M",
+        "Notes": "Prime Minister; Swedish Delegate, Council of the League of Nations"
+    },
+    {
+        "Year": "1921",
+        "Winner": "Christian Lous Lange",
+        "Country": "Belgium",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "BE",
+        "Sex": "M",
+        "Notes": "Secretary General of the Inter-Parliamentary Union"
+    },
+    {
+        "Year": "1922",
+        "Winner": "Fridtjof Nansen",
+        "Country": "Norway",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "NO",
+        "Sex": "M",
+        "Notes": "Scientist. Explorer. Norwegian Delegate to Societe des Nations (League of Nations). Originator of the Nansen passports (for refugees)."
+    },
+    {
+        "Year": "1923",
+        "Winner": "No Award",
+        "ISO country code (WHERE APP)": "--"
+    },
+    {
+        "Year": "1924",
+        "Winner": "No Award",
+        "ISO country code (WHERE APP)": "--"
+    },
+    {
+        "Year": "1925",
+        "Winner": "Sir Austen Chamberlain",
+        "Country": "UK",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "GB",
+        "Sex": "M",
+        "Notes": "Negotiator of the Locarno Treaty and chairman of the Allied Reparation Commission"
+    },
+    {
+        "Year": "1925",
+        "Winner": "Charles Gates Dawes",
+        "Country": "USA",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "US",
+        "Sex": "M",
+        "Notes": "Originator of the Dawes Plan"
+    },
+    {
+        "Year": "1926",
+        "Winner": "Aristide Briand",
+        "Country": "France",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "FR",
+        "Sex": "M",
+        "Notes": "Negotiator of the Locarno Treaty and the Briand-Kellogg Pact."
+    },
+    {
+        "Year": "1926",
+        "Winner": "Gustav Stresemann",
+        "Country": "Germany",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "DE",
+        "Sex": "M",
+        "Notes": "Former Lord High Chancellor (Reichs-kanzler); Foreign Minister; Part-originator of Locarno Pact"
+    },
+    {
+        "Year": "1927",
+        "Winner": "Ferdinand Buisson",
+        "Country": "France",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "FR",
+        "Sex": "M",
+        "Notes": "Homme (League for Human Rights)"
+    },
+    {
+        "Year": "1927",
+        "Winner": "Ludwig Quidde",
+        "Country": "Germany",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "DE",
+        "Sex": "M",
+        "Notes": "s constituent assembly 1919. Delegate to numerous peace conferences"
+    },
+    {
+        "Year": "1928",
+        "Winner": "No Award",
+        "ISO country code (WHERE APP)": "--"
+    },
+    {
+        "Year": "1929",
+        "Winner": "Frank Billings Kellogg",
+        "Country": "USA",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "US",
+        "Sex": "M"
+    },
+    {
+        "Year": "1930",
+        "Winner": "Lars Olof Nathan (Jonathan) Soderblom",
+        "Country": "Sweden",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "SE",
+        "Sex": "M",
+        "Notes": "Leader of the ecumenical movement."
+    },
+    {
+        "Year": "1931",
+        "Winner": "Jane Addams",
+        "Country": "USA",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "US",
+        "Sex": "F",
+        "Notes": "Sociologist; International President, Women's International League for Peace and Freedom"
+    },
+    {
+        "Year": "1931",
+        "Winner": "Nicholas Murray Butler",
+        "Country": "USA",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "US",
+        "Sex": "M",
+        "Notes": "Promoter of the Briand-Kellogg Pact."
+    },
+    {
+        "Year": "1932",
+        "Winner": "No Award",
+        "ISO country code (WHERE APP)": "--"
+    },
+    {
+        "Year": "1933",
+        "Winner": "Sir Norman Angell (Ralph Lane)",
+        "Country": "UK",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "GB",
+        "Sex": "M",
+        "Notes": "Member of the Executive Committee of the League of Nations and the National Peace Council. Author of the book The Great Illusion, among others."
+    },
+    {
+        "Year": "1934",
+        "Winner": "Arthur Henderson",
+        "Country": "UK",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "GB",
+        "Sex": "M",
+        "Notes": "Chairman of the League of Nations Disarmament Conference 1932-1934."
+    },
+    {
+        "Year": "1935",
+        "Winner": "Carl Von Ossietzky",
+        "Country": "Germany",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "DE",
+        "Sex": "M",
+        "Notes": "Journalist (with Die Die Weltbühne, among others), pacifist."
+    },
+    {
+        "Year": "1936",
+        "Winner": "Carlos Saavedra Lamas",
+        "Country": "Argentina",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "AR",
+        "Sex": "M",
+        "Notes": "Meditator in a conflict between Paraguay and Bolivia in 1935."
+    },
+    {
+        "Year": "1937",
+        "Winner": "Lord Edgar Algernon Robert Gascoyne",
+        "Country": "UK",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "GB",
+        "Sex": "M",
+        "Notes": "Writer, Former Lord Privy Seal. Founder and President of the International Peace Campaign."
+    },
+    {
+        "Year": "1938",
+        "Winner": "Nansen International Office For Refugees",
+        "Country": "Switzerland",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Inst",
+        "ISO country code (WHERE APP)": "CH",
+        "Notes": "International relief organization in Geneva started by Fridtjof Nansen in 1921."
+    },
+    {
+        "Year": "1939",
+        "Winner": "No Award",
+        "ISO country code (WHERE APP)": "--"
+    },
+    {
+        "Year": "1940",
+        "Winner": "No Award",
+        "ISO country code (WHERE APP)": "--"
+    },
+    {
+        "Year": "1941",
+        "Winner": "No Award",
+        "ISO country code (WHERE APP)": "--"
+    },
+    {
+        "Year": "1942",
+        "Winner": "No Award",
+        "ISO country code (WHERE APP)": "--"
+    },
+    {
+        "Year": "1943",
+        "Winner": "No Award",
+        "ISO country code (WHERE APP)": "--"
+    },
+    {
+        "Year": "1944",
+        "Winner": "International Committee Of The Red Cross",
+        "Country": "Switzerland",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Inst",
+        "ISO country code (WHERE APP)": "CH"
+    },
+    {
+        "Year": "1945",
+        "Winner": "Cordell Hull",
+        "Country": "USA",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "US",
+        "Sex": "M",
+        "Notes": "One of the initiators of the United Nations."
+    },
+    {
+        "Year": "1946",
+        "Winner": "Emily Greene Balch",
+        "Country": "USA",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "US",
+        "Sex": "F",
+        "Notes": "s International League for Peace and Freedom"
+    },
+    {
+        "Year": "1946",
+        "Winner": "John Raleigh Mott",
+        "Country": "USA",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "US",
+        "Sex": "M",
+        "Notes": "Chairman of the first International Missionary Council, President of the World Alliance of Young Men's Christian Associations"
+    },
+    {
+        "Year": "1947",
+        "Winner": "Friends Service Council (Quakers)",
+        "Country": "UK",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Inst",
+        "ISO country code (WHERE APP)": "GB"
+    },
+    {
+        "Year": "1947",
+        "Winner": "Amer. Friends Service Cttee (Quakers)",
+        "Country": "USA",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Inst",
+        "ISO country code (WHERE APP)": "US"
+    },
+    {
+        "Year": "1948",
+        "Winner": "No Award",
+        "ISO country code (WHERE APP)": "--"
+    },
+    {
+        "Year": "1949",
+        "Winner": "Lord John Boyd Orr Of Brechin",
+        "Country": "UK",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "GB",
+        "Sex": "M",
+        "Notes": "Physician, Alimentary Politician, prominent organizer and Director General Food and Agricultural Organization, President National Peace Council and World Union of Peace Organizations."
+    },
+    {
+        "Year": "1950",
+        "Winner": "Ralph Bunche",
+        "Country": "USA",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "US",
+        "Sex": "M",
+        "Notes": "Professor Harvard University, Cambridge, MA, Director of the UN Division of Trusteeship, Acting Mediator in Palestine 1948."
+    },
+    {
+        "Year": "1951",
+        "Winner": "Leon Jouhaux",
+        "Country": "France",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "FR",
+        "Sex": "M",
+        "Notes": "France, President of the trade union C.G.T. President of the International Committee of the European Council, Vice President of the International Confederation of Free Trade Unions, Vice President of the World Federation of Trade Unions, member of the ILO Council, delegate to the UN."
+    },
+    {
+        "Year": "1952",
+        "Winner": "Albert Schweitzer",
+        "Country": "USA",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "US",
+        "Sex": "M",
+        "Notes": "Missionary surgeon, Founder Lambaréné Hospital in Republique du Gabon."
+    },
+    {
+        "Year": "1953",
+        "Winner": "George Catlett Marshall",
+        "Country": "USA",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "US",
+        "Sex": "M",
+        "Notes": "General, President American Red Cross, ex-Secretary of State and of Defense, Delegate to the U.N., Originator of the Marshall Plan."
+    },
+    {
+        "Year": "1954",
+        "Winner": "Office Of The United Nations High Commissioner For Refugees Geneva",
+        "Country": "Switzerland",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Inst",
+        "ISO country code (WHERE APP)": "CH",
+        "Notes": "an international relief organization, founded by U.N. in 1951."
+    },
+    {
+        "Year": "1955",
+        "Winner": "No Award",
+        "Joint?": "No",
+        "% of prize": "100"
+    },
+    {
+        "Year": "1956",
+        "Winner": "No Award",
+        "Joint?": "No",
+        "% of prize": "100"
+    },
+    {
+        "Year": "1957",
+        "Winner": "Lester Bowles Pearson",
+        "Country": "Canada",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "CA",
+        "Sex": "M",
+        "Notes": "former Secretary of State for External Affairs of Canada, President 7th Session of the United Nations General Assembly ."
+    },
+    {
+        "Year": "1958",
+        "Winner": "Georges Henri Pire",
+        "Country": "Belgium",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "BE",
+        "Sex": "M",
+        "Notes": "Belgium, Father of the Dominican Order, Leader of the relief organization for refugees, l'Europe du Coeur au Service du Monde."
+    },
+    {
+        "Year": "1959",
+        "Winner": "Philip J. Noel-Baker",
+        "Country": "UK",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "GB",
+        "Sex": "M",
+        "Notes": "Great Britain, Member of Parliament, life long ardent worker for international peace and co-operation ."
+    },
+    {
+        "Year": "1960",
+        "Winner": "Albert John Lutuli",
+        "Country": "South Africa",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "ZA",
+        "Sex": "M",
+        "Notes": "President of the South Africal liberation movement, the African National Congress."
+    },
+    {
+        "Year": "1961",
+        "Winner": "Dag Hjalmar Agne Carl Hammarskjold",
+        "Country": "Sweden",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "SE",
+        "Sex": "M",
+        "Notes": "Secretary General of the United Nations (awarded the Prize posthumously)."
+    },
+    {
+        "Year": "1962",
+        "Winner": "Linus Carl Pauling",
+        "Country": "USA",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "US",
+        "Sex": "M",
+        "Notes": "Campaigner especially for an end to nuclear weapons tests."
+    },
+    {
+        "Year": "1963",
+        "Winner": "International Committee Of The Red Cross",
+        "Country": "Switzerland",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Inst",
+        "ISO country code (WHERE APP)": "CH"
+    },
+    {
+        "Year": "1964",
+        "Winner": "Martin Luther King Jr.",
+        "Country": "USA",
+        "Joint?": "Yes",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "US",
+        "Sex": "M",
+        "Notes": "leader of the Southern Christian Leadership Conference, campaigner for civil rights."
+    },
+    {
+        "Year": "1964",
+        "Winner": "League Of Red Cross Societies",
+        "Country": "Switzerland",
+        "Joint?": "Yes",
+        "% of prize": "100",
+        "Institution or individual?": "Inst",
+        "ISO country code (WHERE APP)": "CH"
+    },
+    {
+        "Year": "1965",
+        "Winner": "s Fund (Unicef)",
+        "Country": "USA",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Inst",
+        "ISO country code (WHERE APP)": "US",
+        "Notes": "An international aid organization."
+    },
+    {
+        "Year": "1966",
+        "Winner": "No Award",
+        "Joint?": "No",
+        "% of prize": "100",
+        "ISO country code (WHERE APP)": "--"
+    },
+    {
+        "Year": "1967",
+        "Winner": "No Award",
+        "Joint?": "No",
+        "% of prize": "100",
+        "ISO country code (WHERE APP)": "--"
+    },
+    {
+        "Year": "1968",
+        "Winner": "Rene Cassin",
+        "Country": "France",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "FR",
+        "Sex": "M",
+        "Notes": "President of the European Court for Human Rights ."
+    },
+    {
+        "Year": "1969",
+        "Winner": "International Labour Organization (ILO)",
+        "Country": "Switzerland",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Inst",
+        "ISO country code (WHERE APP)": "CH"
+    },
+    {
+        "Year": "1970",
+        "Winner": "Norman Borlaug",
+        "Country": "USA",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "US",
+        "Sex": "M",
+        "Notes": "Led research at the International Maize and Wheat Improvement Center, Mexico City."
+    },
+    {
+        "Year": "1971",
+        "Winner": "Willy Brandt",
+        "Country": "Germany",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "DE",
+        "Sex": "M",
+        "Notes": "Chancellor of the Federal Republic of Germany. Initiator of West Germany's Ostpolitik, embodying a new attitude towards Eastern Europe and East Germany."
+    },
+    {
+        "Year": "1972",
+        "Winner": "No Award",
+        "Joint?": "No",
+        "% of prize": "100"
+    },
+    {
+        "Year": "1973",
+        "Winner": "Henry A. Kissinger",
+        "Country": "USA",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "US",
+        "Sex": "M",
+        "Notes": "for jointly negotiating the Vietnam peace accord in 1973."
+    },
+    {
+        "Year": "1973",
+        "Winner": "Le Duc Tho (Declined  prize.)",
+        "Country": "Viet nam",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "VN",
+        "Sex": "M"
+    },
+    {
+        "Year": "1974",
+        "Winner": "Sean Macbride",
+        "Country": "Ireland",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "IE",
+        "Sex": "M",
+        "Notes": "President of the International Peace Bureau; President of the Commission of Namibia"
+    },
+    {
+        "Year": "1974",
+        "Winner": "Eisaku Sato",
+        "Country": "Japan",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "JP",
+        "Sex": "M",
+        "Notes": "Prime Minister of Japan"
+    },
+    {
+        "Year": "1975",
+        "Winner": "Andrei Dmitrievich Sakharov",
+        "Country": "USSR",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "Sex": "M",
+        "Notes": "Soviet nuclear physicist. Campaigner for human rights."
+    },
+    {
+        "Year": "1976",
+        "Winner": "Betty Williams",
+        "Country": "UK",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "GB",
+        "Sex": "F",
+        "Notes": "Founders of the Northern Ireland Peace Movement (later renamed Community of Peace People)."
+    },
+    {
+        "Year": "1976",
+        "Winner": "Mairead Corrigan",
+        "Country": "UK",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "GB",
+        "Sex": "F",
+        "Notes": "Founders of the Northern Ireland Peace Movement (later renamed Community of Peace People)."
+    },
+    {
+        "Year": "1977",
+        "Winner": "Amnesty International",
+        "Country": "UK",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Inst",
+        "ISO country code (WHERE APP)": "GB",
+        "Notes": "A worldwide organization for the protection of the rights of prisoners of conscience."
+    },
+    {
+        "Year": "1978",
+        "Winner": "Menachem Begin",
+        "Country": "Israel",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "IL",
+        "Sex": "M",
+        "Notes": "For jointly negotiating peace between Egypt and Israel."
+    },
+    {
+        "Year": "1978",
+        "Winner": "Mohamed Anwar Al-Sadat",
+        "Country": "Egypt",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "EG",
+        "Sex": "M",
+        "Notes": "For jointly negotiating peace between Egypt and Israel."
+    },
+    {
+        "Year": "1979",
+        "Winner": "Mother Teresa",
+        "Country": "India",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "IN",
+        "Sex": "F",
+        "Notes": "Leader of the Order of the Missionaries of Charity."
+    },
+    {
+        "Year": "1980",
+        "Winner": "Adolfo Perez Esquivel",
+        "Country": "Argentina",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "AR",
+        "Sex": "M",
+        "Notes": "Argentina, architect, sculptor and human rights leader."
+    },
+    {
+        "Year": "1981",
+        "Winner": "Office Of The United Nations High Commissioner For Refugees",
+        "Country": "Switzerland",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Inst",
+        "ISO country code (WHERE APP)": "CH"
+    },
+    {
+        "Year": "1982",
+        "Winner": "Alva Myrdal",
+        "Country": "Sweden",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "SE",
+        "Sex": "F",
+        "Notes": "Former Cabinet Minister, diplomat, delegate to United Nations General Assembly on Disarmament"
+    },
+    {
+        "Year": "1982",
+        "Winner": "Alfonso Garcia Robles",
+        "Country": "Mexico",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "MX",
+        "Sex": "M",
+        "Notes": "Writer and diplomat, delegate to the United Nations General Assembly on Disarmament, former Secretary for Foreign Affairs"
+    },
+    {
+        "Year": "1983",
+        "Winner": "Lech Walesa",
+        "Country": "Poland",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "PL",
+        "Sex": "M",
+        "Notes": "Poland. Founder of Solidarity, campaigner for human rights."
+    },
+    {
+        "Year": "1984",
+        "Winner": "Desmond Mpilo Tutu",
+        "Country": "South Africa",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "ZA",
+        "Sex": "M",
+        "Notes": "South Africa, Bishop of Johannesburg, former Secretary General South African Council of Churches (S.A.C.C.). For his work against apartheid."
+    },
+    {
+        "Year": "1985",
+        "Winner": "International Physicians For The Prevention Of Nuclear War",
+        "Country": "USA",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Inst",
+        "ISO country code (WHERE APP)": "US",
+        "Notes": "Dedicated to mobilizing the influence of the medical profession against the threat of nuclear weapons."
+    },
+    {
+        "Year": "1986",
+        "Winner": "Elie Wiesel",
+        "Country": "USA",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "US",
+        "Sex": "M",
+        "Notes": "U.S.A., Chairman of 'The President's Commission on the Holocaust'. Author, humanitarian."
+    },
+    {
+        "Year": "1987",
+        "Winner": "Oscar Arias Sánchez",
+        "Country": "Costa Rica",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "CR",
+        "Sex": "M",
+        "Notes": "Costa Rica, President of Costa Rica, for his work for peace in Central America, efforts which led to the accord signed in Guatemala in 1987"
+    },
+    {
+        "Year": "1988",
+        "Winner": "The United Nations Peace-Keeping Forces",
+        "Country": "USA",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Inst",
+        "ISO country code (WHERE APP)": "US",
+        "Notes": "For maintaining and re-establishing peace in areas of armed conflict."
+    },
+    {
+        "Year": "1989",
+        "Winner": "The 14th Dalai Lama (Tenzin Gyatso)",
+        "Country": "Tibet",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "Sex": "M",
+        "Notes": "Tibet. Religious and political leader of the Tibetan people."
+    },
+    {
+        "Year": "1990",
+        "Winner": "Mikhail  Gorbachev",
+        "Country": "USSR",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "Sex": "M",
+        "Notes": "President of the USSR for his leading role in the peace process which today characterizes important parts of the international community"
+    },
+    {
+        "Year": "1991",
+        "Winner": "Aung San Suu Kyi",
+        "Country": "Burma",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "MM",
+        "Sex": "F",
+        "Notes": "Oppositional leader, human rights advocate."
+    },
+    {
+        "Year": "1992",
+        "Winner": "Rigoberta Menchú Tum",
+        "Country": "Guatemala",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "GT",
+        "Sex": "F",
+        "Notes": "in recognition of her work for social justice and ethno-cultural reconciliation based on respect for the rights of indigenous peoples"
+    },
+    {
+        "Year": "1993",
+        "Winner": "Frederik Willem De Klerk",
+        "Country": "South Africa",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "ZA",
+        "Sex": "M",
+        "Notes": "for their work for the peaceful termination of the apartheid regime, and for laying the foundations for a new democratic South Africa"
+    },
+    {
+        "Year": "1993",
+        "Winner": "Nelson Mandela",
+        "Country": "South Africa",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "ZA",
+        "Sex": "M",
+        "Notes": "for their work for the peaceful termination of the apartheid regime, and for laying the foundations for a new democratic South Africa"
+    },
+    {
+        "Year": "1994",
+        "Winner": "Yasser Arafat",
+        "Country": "Pal Occ Terr",
+        "Joint?": "Yes",
+        "% of prize": "33.333",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "PS",
+        "Sex": "M",
+        "Notes": "for their efforts to create peace in the Middle East."
+    },
+    {
+        "Year": "1994",
+        "Winner": "Shimon Peres",
+        "Country": "Israel",
+        "Joint?": "Yes",
+        "% of prize": "33.333",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "IL",
+        "Sex": "M",
+        "Notes": "for their efforts to create peace in the Middle East."
+    },
+    {
+        "Year": "1994",
+        "Winner": "Yitzhak Rabin",
+        "Country": "Israel",
+        "Joint?": "Yes",
+        "% of prize": "33.333",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "IL",
+        "Sex": "M",
+        "Notes": "for their efforts to create peace in the Middle East."
+    },
+    {
+        "Year": "1995",
+        "Winner": "Joseph Rotblat",
+        "Country": "UK",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "GB",
+        "Sex": "M",
+        "Notes": "for their efforts to diminish the part played by nuclear arms in international politics and in the longer run to eliminate such arms."
+    },
+    {
+        "Year": "1995",
+        "Winner": "The Pugwash Conferences On Science And World Affairs",
+        "Country": "Canada",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Inst",
+        "ISO country code (WHERE APP)": "CA",
+        "Notes": "for their efforts to diminish the part played by nuclear arms in international politics and in the longer run to eliminate such arms."
+    },
+    {
+        "Year": "1996",
+        "Winner": "Carlos Filipe Ximenes Belo",
+        "Country": "East Timor",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "TL",
+        "Sex": "M",
+        "Notes": "for their work towards a just and peaceful solution to the conflict in East Timor."
+    },
+    {
+        "Year": "1996",
+        "Winner": "José Ramos-Horta",
+        "Country": "East Timor",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "TL",
+        "Sex": "M",
+        "Notes": "for their work towards a just and peaceful solution to the conflict in East Timor."
+    },
+    {
+        "Year": "1997",
+        "Winner": "Jody Williams",
+        "Country": "USA",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "US",
+        "Sex": "F",
+        "Notes": "for their work for the banning and clearing of anti-personnel mines."
+    },
+    {
+        "Year": "1997",
+        "Winner": "International Campaign To Ban Landmines",
+        "Country": "USA",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Inst",
+        "ISO country code (WHERE APP)": "US",
+        "Notes": "for their work for the banning and clearing of anti-personnel mines."
+    },
+    {
+        "Year": "1998",
+        "Winner": "John Hume",
+        "Country": "UK",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "GB",
+        "Sex": "M",
+        "Notes": "for their efforts to find a peaceful solution to the conflict in Northern Ireland."
+    },
+    {
+        "Year": "1998",
+        "Winner": "David Trimble",
+        "Country": "UK",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "GB",
+        "Sex": "M",
+        "Notes": "for their efforts to find a peaceful solution to the conflict in Northern Ireland."
+    },
+    {
+        "Year": "1999",
+        "Winner": "Médecins Sans Frontières",
+        "Country": "France",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Inst",
+        "ISO country code (WHERE APP)": "FR",
+        "Notes": "s pioneering humanitarian work on several continents"
+    },
+    {
+        "Year": "2000",
+        "Winner": "Kim Dae-jung",
+        "Country": "South Korea",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "KR",
+        "Sex": "M",
+        "Notes": "for his work for democracy and human rights in South Korea and in East Asia in general, and for peace and reconciliation with North Korea in particular."
+    },
+    {
+        "Year": "2001",
+        "Winner": "Kofi Annan",
+        "Country": "Ghana",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "GH",
+        "Sex": "M",
+        "Notes": "For their work for a better organized and more peaceful world"
+    },
+    {
+        "Year": "2001",
+        "Winner": "United Nations",
+        "Country": "USA",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Inst",
+        "ISO country code (WHERE APP)": "US",
+        "Notes": "For their work for a better organized and more peaceful world"
+    },
+    {
+        "Year": "2002",
+        "Winner": "Jimmy Carter",
+        "Country": "USA",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "US",
+        "Sex": "M",
+        "Notes": "former President of the United States of America, for his decades of untiring effort to find peaceful solutions to international conflicts, to advance democracy and human rights, and to promote economic and social development"
+    },
+    {
+        "Year": "2003",
+        "Winner": "Shirin Ebadi",
+        "Country": "Iran",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "IR",
+        "Sex": "F",
+        "Notes": "for her efforts for democracy and human rights. She has focused especially on the struggle for the rights of women and children"
+    },
+    {
+        "Year": "2004",
+        "Winner": "Wangari Muta Maathai",
+        "Country": "Kenya",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "KE",
+        "Sex": "F",
+        "Notes": "for her contribution to sustainable development, democracy and peace"
+    },
+    {
+        "Year": "2005",
+        "Winner": "Mohamed Elbaradei",
+        "Country": "Egypt",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "EG",
+        "Sex": "M",
+        "Notes": "for their efforts to prevent nuclear energy from being used for military purposes and to ensure that nuclear energy for peaceful purposes is used in the safest possible way."
+    },
+    {
+        "Year": "2005",
+        "Winner": "International Atomic Energy Agency",
+        "Country": "Austria",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Inst",
+        "ISO country code (WHERE APP)": "AT",
+        "Notes": "for their efforts to prevent nuclear energy from being used for military purposes and to ensure that nuclear energy for peaceful purposes is used in the safest possible way."
+    },
+    {
+        "Year": "2006",
+        "Winner": "Grameen Bank",
+        "Country": "Bangladesh",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Inst.",
+        "ISO country code (WHERE APP)": "BD",
+        "Notes": "for their efforts to create economic and social development from below."
+    },
+    {
+        "Year": "2006",
+        "Winner": "Muhammad Yunus",
+        "Country": "Bangladesh",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "BD",
+        "Sex": "M",
+        "Notes": "for their efforts to create economic and social development from below."
+    },
+    {
+        "Year": "2007",
+        "Winner": "Al Gore",
+        "Country": "USA",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "US",
+        "Sex": "M",
+        "Notes": "for their efforts to build up and disseminate greater knowledge about man-made climate change, and to lay the foundations for the measures that are needed to counteract such change."
+    },
+    {
+        "Year": "2007",
+        "Winner": "Inter- govern- mental Panel On Climate Change (IPCC)",
+        "Country": "USA",
+        "Joint?": "Yes",
+        "% of prize": "50",
+        "Institution or individual?": "Inst",
+        "ISO country code (WHERE APP)": "US",
+        "Notes": "for their efforts to build up and disseminate greater knowledge about man-made climate change, and to lay the foundations for the measures that are needed to counteract such change."
+    },
+    {
+        "Year": "2008",
+        "Winner": "Martti Ahtisaari",
+        "Country": "Finland",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "FI",
+        "Sex": "M",
+        "Notes": "for his important efforts, on several continents and over more than three decades, to resolve international conflicts."
+    },
+    {
+        "Year": "2009",
+        "Winner": "Barack Obama",
+        "Country": "USA",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "US",
+        "Sex": "M",
+        "Notes": "President of the US for his extraordinary efforts to strengthen international diplomacy and cooperation between peoples"
+    },
+    {
+        "Year": "2010",
+        "Winner": "Liu Xiaobo",
+        "Country": "China",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "CN",
+        "Sex": "M",
+        "Notes": "For his long and non-violent struggle for fundamental human rights in China"
+    },
+    {
+        "Year": "2011",
+        "Winner": "Ellen Johnson-Sirleaf",
+        "Country": "Liberia",
+        "Joint?": "Yes",
+        "% of prize": "33.3",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "LR",
+        "Sex": "F",
+        "Notes": "For her non-violent struggle for the safety of women and for women’s rights to full participation in peace-building work"
+    },
+    {
+        "Year": "2011",
+        "Winner": "Leymah Gbowee",
+        "Country": "Liberia",
+        "Joint?": "Yes",
+        "% of prize": "33.3",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "LR",
+        "Sex": "F",
+        "Notes": "For her non-violent struggle for the safety of women and for women’s rights to full participation in peace-building work"
+    },
+    {
+        "Year": "2011",
+        "Winner": "Tawakkul Kar",
+        "Country": "Yemen",
+        "Joint?": "Yes",
+        "% of prize": "33.3",
+        "Institution or individual?": "Ind.",
+        "ISO country code (WHERE APP)": "YE",
+        "Sex": "F",
+        "Notes": "For her non-violent struggle for the safety of women and for women’s rights to full participation in peace-building work"
+    },
+    {
+        "Year": "2012",
+        "Winner": "European Union",
+        "Country": "Cross-national",
+        "Joint?": "No",
+        "% of prize": "100",
+        "Institution or individual?": "Inst",
+        "Notes": "For over six decades contributed to the advancement of peace and reconciliation, democracy and human rights in Europe"
+    }
+]

@@ -1,0 +1,26 @@
+{
+  "name": "facet",
+  "description": "Chainable sorting and filtering for collections.",
+  "version": "0.1.0",
+  "main": "./facet.js",
+  "author": "Richard Butler <rich@smartcasual.io>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/richardbutler/facet.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "dependencies": {
+    "trilby": "~0.1.0"
+  },
+  "devDependencies": {
+    "chai-stack": "~1.3.1",
+    "gulp": "~3.5.2",
+    "gulp-uglify": "~0.2.1",
+    "gulp-rename": "~0.2.2",
+    "gulp-mocha": "~0.4.1"
+  }
+}
