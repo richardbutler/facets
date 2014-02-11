@@ -1,7 +1,7 @@
 {
   "name": "facets",
   "description": "Chainable sorting and filtering for collections.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "facets.js",
   "author": "Richard Butler <rich@smartcasual.io>",
   "keywords": ["util", "collection", "filtering"],
