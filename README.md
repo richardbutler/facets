@@ -18,4 +18,4 @@ Via Bower:
 
 ## Docs
 
-To follow. For now, see the [tests](blob/master/test/facets.spec.js) and the [annotated source](blob/master/facets.js).
+To follow. For now, see the [tests](test/facets.spec.js) and the [annotated source](facets.js).
