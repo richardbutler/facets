@@ -4,7 +4,7 @@ Chainable sorting and filtering for JavaScript collections.
 
 ## Support
 
-Facets makes no apologies for requiring ECMAScript 5 support. For legacy browser support, you'll need to enlist the help of something like [html5shiv](https://github.com/aFarkas/html5shiv).
+Facets makes no apologies for requiring ECMAScript 5 support. For legacy browser support, you'll need to enlist the help of something like [es5shim](https://github.com/es-shims/es5-shim).
 
 ## Installation
 
